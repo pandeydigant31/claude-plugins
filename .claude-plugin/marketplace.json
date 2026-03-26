@@ -11,8 +11,8 @@
     {
       "name": "carbon-measurement",
       "source": {
-        "source": "github",
-        "repo": "pandeydigant31/carbon-measurement-plugin"
+        "source": "url",
+        "url": "https://github.com/pandeydigant31/carbon-measurement-plugin.git"
       },
       "description": "LCA-grounded carbon and environmental impact measurement for Claude Code sessions. ISO 14040/14044 aligned with Monte Carlo uncertainty quantification.",
       "version": "0.1.0",
