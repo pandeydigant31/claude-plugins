@@ -1,0 +1,26 @@
+{
+  "name": "pandey-plugins",
+  "owner": {
+    "name": "Digant Pandey"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for sustainability and environmental impact measurement",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "carbon-measurement",
+      "source": {
+        "source": "github",
+        "repo": "pandeydigant31/carbon-measurement-plugin"
+      },
+      "description": "LCA-grounded carbon and environmental impact measurement for Claude Code sessions. ISO 14040/14044 aligned with Monte Carlo uncertainty quantification.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Digant Pandey"
+      },
+      "homepage": "https://github.com/pandeydigant31/carbon-measurement-plugin",
+      "keywords": ["carbon", "emissions", "sustainability", "LCA", "energy", "water"]
+    }
+  ]
+}
